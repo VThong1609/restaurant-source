@@ -1,0 +1,27 @@
+.winner-information {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  margin-top: 20px;
+}
+
+.winner-information h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.winner-details .detail {
+  margin-bottom: 10px;
+}
+
+.winner-details label {
+  font-weight: bold;
+}
+
+.winner-details span {
+  display: inline-block;
+  margin-left: 10px;
+}
